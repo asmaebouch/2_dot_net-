@@ -7,9 +7,11 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using EbookTest.Models;
 using EbookTest.data;
+using Microsoft.AspNetCore.Authorization;
 
 namespace EbookTest.Controllers
 {
+    [Authorize (Roles = "Administrator")]
     public class EbooksController : Controller
     {
         private readonly ApplicationDbContext _context;

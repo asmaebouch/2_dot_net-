@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\img\\E-BOOK.jpg"
     },
     {
+      "Id": "C:\\Users\\MYC\\source\\repos\\EbookTest\\EbookTest\\wwwroot\\img\\E-BOOK.png",
+      "PackagePath": "staticwebassets\\img\\E-BOOK.png"
+    },
+    {
+      "Id": "C:\\Users\\MYC\\source\\repos\\EbookTest\\EbookTest\\wwwroot\\img\\Ebook1.png",
+      "PackagePath": "staticwebassets\\img\\Ebook1.png"
+    },
+    {
       "Id": "C:\\Users\\MYC\\source\\repos\\EbookTest\\EbookTest\\wwwroot\\img\\Ebook2.png",
       "PackagePath": "staticwebassets\\img\\Ebook2.png"
     },

@@ -322,3 +322,5 @@ C:\Users\MYC\source\repos\EbookTest\EbookTest\bin\Debug\net6.0\Microsoft.Extensi
 C:\Users\MYC\source\repos\EbookTest\EbookTest\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\MYC\source\repos\EbookTest\EbookTest\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
 C:\Users\MYC\source\repos\EbookTest\EbookTest\obj\Debug\net6.0\EbookTest.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\MYC\source\repos\EbookTest\EbookTest\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\MYC\source\repos\EbookTest\EbookTest\bin\Debug\net6.0\Microsoft.AspNetCore.Metadata.dll

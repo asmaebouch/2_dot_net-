@@ -11,6 +11,8 @@ namespace EbookTest.data
 
         }
         public DbSet<Ebook> ebooks { set; get; }
+        public DbSet<ApplicationUser>ApplicationUser { set; get; }
+
     }
 
 }
